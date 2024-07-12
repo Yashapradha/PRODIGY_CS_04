@@ -1,4 +1,3 @@
-```markdown
 # Keylogger Program
 
 ## Overview
@@ -14,7 +13,7 @@ This is a simple keylogger program written in Python using the `pynput` library.
    ```sh
    git clone <repository-url>
    cd <repository-directory>
-   ```
+   
 
 2. **Install Required Libraries**:
    Make sure you have Python installed. Then, install the `pynput` library:
